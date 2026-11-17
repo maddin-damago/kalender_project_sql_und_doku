@@ -15,4 +15,4 @@ ID          Anforderung                                                         
 13          Verwaltung per 1 PW für alle MA einsehbar                               Must
 14          Bestätigungs E-Mail                                                     Could
 15          Freie Tage pro Person berücksichtigen                                   Could
-15          Social Media verlinken                                                  Could
+16          Social Media verlinken                                                  Could
